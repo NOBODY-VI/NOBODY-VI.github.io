@@ -28,15 +28,6 @@ Familiar:       SQL, MySQL, Database Architecture
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahuldev181&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=cccccc&icon_color=ffffff&border_color=333333" alt="Rahul's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahuldev181&layout=compact&theme=dark&bg_color=000000&title_color=ffffff&text_color=cccccc&icon_color=ffffff&border_color=333333" alt="Top Languages" />
-</p>
-
----
-
 <p align="center">
   <a href="https://linkedin.com/in/rahuldev181">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
